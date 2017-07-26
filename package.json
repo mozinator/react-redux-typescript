@@ -6,8 +6,10 @@
   "repository": "https://github.com/piotrwitek/react-redux-typescript",
   "homepage": "https://github.com/piotrwitek/react-redux-typescript",
   "license": "MIT",
-  "main": "src/index.ts",
-  "typings":" es5/index.d.ts",
+  "types": "es5/index.d.ts",
+  "main": "es5/index.js",
+  "module": "module/index.js",
+  "jsnext:main": "jsnext/index.js",
   "engines": {
     "node": ">= 4"
   },
