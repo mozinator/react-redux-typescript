@@ -4,6 +4,7 @@
  * @license MIT
  */
 export * from './helpers';
+export * from './create-action-creator';
 // workarounds for missing features
 export * from './returntypeof';
 //# sourceMappingURL=index.js.map

@@ -9,6 +9,7 @@ function __export(m) {
 }
 Object.defineProperty(exports, "__esModule", { value: true });
 __export(require("./helpers"));
+__export(require("./create-action-creator"));
 // workarounds for missing features
 __export(require("./returntypeof"));
 //# sourceMappingURL=index.js.map

@@ -5,4 +5,5 @@
  */
 export * from './types';
 export * from './helpers';
+export * from './create-action-creator';
 export * from './returntypeof';
